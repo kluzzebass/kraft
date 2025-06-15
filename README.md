@@ -1,2 +1,2 @@
 # kraft
-Experiments with RAFT.
+Experiments with distributed key-value store using RAFT.
